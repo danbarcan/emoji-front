@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="emoji-front" name="emoji-front" path="C:/Users/Mihai/GIT/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/emoji-front" type="static"/>
+</server>

@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+	margin: 0;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-image: linear-gradient(to bottom, #1e270a, #052316, #001e1e, #001720, #020c1a);
+}
+
+img {
+	cursor: pointer;
+}
+
+.title {
+	color: rgb(220, 20, 60);
+	font-weight: bold;
+	margin-bottom: 100px;
+}
+
+.navbar {
+	margin-bottom: 30px;
+}
+
+.navbar-dark .navbar-nav .nav-link .nav-admin{
+	color:black;
+}
+
+
+.row-fluid {
+	padding: 10px;
+}

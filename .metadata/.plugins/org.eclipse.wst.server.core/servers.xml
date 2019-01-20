@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" com.springsource.tcserver.asf="false" com.springsource.tcserver.name="base-instance" com.springsource.tcserver.version="9.0.10.A.RELEASE" configuration-id="/Servers/Pivotal tc Server Developer Edition v4.0-config" deployDir="wtpwebapps" hostname="localhost" id="Pivotal tc Server Developer Edition v4.0" id-set="true" name="Pivotal tc Server Developer Edition v4.0" runtime-id="Pivotal tc Server Developer Edition (Runtime) v4.0" saveSeparateContextFiles="true" server-type="com.pivotal.server.tc.90" server-type-id="com.pivotal.server.tc.90" start-timeout="120" stop-timeout="15" testEnvironment="false" timestamp="0"/>
+  <server auto-publish-setting="2" hostname="localhost" id="HTTP Preview at localhost" name="HTTP Preview at localhost" runtime-id="HTTP Preview" server-type="org.eclipse.wst.server.preview.server" server-type-id="org.eclipse.wst.server.preview.server" start-timeout="240" stop-timeout="240" timestamp="2">
+    <list key="modules" value0="emoji-front::org.eclipse.wst.web.internal.deployables.static:emoji-front::wst.web::1.0"/>
+  </server>
+</servers>

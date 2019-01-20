@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+	background-color: rgb(100,100,100);
+}
+
+img{
+	cursor: pointer;
+}
+
+.title{
+	color: darkred;
+}
